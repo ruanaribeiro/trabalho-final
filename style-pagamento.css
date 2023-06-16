@@ -1,0 +1,354 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    width: 100%;
+    height: 75px;
+    left: 340px;
+    top: -11px;
+    background-color: #304664;
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    }
+    
+    .navbar2{
+        box-sizing: border-box;
+    width: 100%;
+    height: 76px;
+    left: 340px;
+    top: 61px;
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    
+    background-color: #E1DADA;
+    border: 1px solid #125874;
+    }
+
+.text p{
+    position: absolute;
+    width: 410px;
+    height: 25px;
+    left: 369px;
+    top: 20px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    text-align: left;
+    
+    color: #FFFFFF;
+}
+
+.img img{
+    position: absolute;
+width: 330px;
+height: 193px;
+left: 4px;
+top: 13px;
+
+background: url(image.png);
+}
+.link1 p{
+    position: absolute;
+width: 292px;
+height: 78px;
+left: 26px;
+top: 227px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+}
+
+.link2 p{
+    position: absolute;
+width: 286px;
+height: 22px;
+left: 23px;
+top: 336px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.link3 p{
+    position: absolute;
+width: 236px;
+height: 26px;
+left: 48px;
+top: 419px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.link4 p{
+    position: absolute;
+width: 216px;
+height: 42px;
+left: 61px;
+top: 512px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+}
+
+
+.link6 p{
+    position: absolute;
+width: 211px;
+height: 32px;
+left: 66px;
+top: 711px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+}
+
+.link7 p{
+    position: absolute;
+    width: 211px;
+    height: 62px;
+    left: 66px;
+    top: 811px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+    color: #000000;
+}
+
+
+.link8 p{
+    position: absolute;
+width: 227px;
+height: 36px;
+left: 50px;
+top: 923px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+}
+
+.secnavbar{
+    position: absolute;
+    width: 346px;
+    height: 1030px;
+    left: -4px;
+    top: 0px;
+    
+    background: #304664;
+}
+
+.secnavbar3{
+width: 84,7%;
+height: 100%;
+padding-left: 15em;
+display: flex;
+justify-content: center;
+background: #E1DADA;
+padding-top: 20px;
+gap: 30px;
+}
+
+.fundo{
+    width: 78%;
+    height: 885px;
+    margin-left: 335px;
+    top: 151px;
+    background: #D9D9D9;
+}
+
+
+.quadro{
+/* Rectangle 57 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1012px;
+height: 101px;
+left: 383px;
+top: 215px;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+border-radius: 15px;
+
+
+
+
+/* Pagamento da Mensalidade */
+
+
+position: absolute;
+width: 936px;
+height: 52px;
+left: 421px;
+top: 254px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+}
+
+
+.quadro2{
+    /* Rectangle 63 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 833px;
+height: 81px;
+left: 470px;
+top: 392px;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+border-radius: 15px;
+
+/* Pagamento por mês */
+
+
+position: absolute;
+width: 761px;
+height: 37px;
+left: 508px;
+top: 424px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+}
+
+.quadro3{
+    /* Rectangle 61 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 833px;
+height: 117px;
+left: 470px;
+top: 473px;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+border-radius: 15px;
+
+/* Por mês a mensalidade é de 1.369,00 */
+
+
+position: absolute;
+width: 778px;
+height: 80px;
+left: 498px;
+top: 526px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.ultimo{
+    /* Rectangle 62 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 581px;
+height: 59px;
+left: 562px;
+top: 698px;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+border-radius: 15px;
+
+/* Enviar comprovante no email da escola */
+
+
+position: absolute;
+width: 535px;
+height: 30px;
+left: 590px;
+top: 713px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+}

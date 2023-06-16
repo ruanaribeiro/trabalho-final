@@ -1,0 +1,510 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    width: 100%;
+    height: 75px;
+    left: 340px;
+    top: -11px;
+    background-color: #304664;
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    }
+    
+    .navbar2{
+        box-sizing: border-box;
+    width: 100%;
+    height: 76px;
+    left: 340px;
+    top: 61px;
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    
+    background-color: #E1DADA;
+    border: 1px solid #125874;
+    }
+
+.text p{
+    position: absolute;
+    width: 410px;
+    height: 25px;
+    left: 369px;
+    top: 20px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    text-align: left;
+    
+    color: #FFFFFF;
+}
+
+.img img{
+    position: absolute;
+width: 330px;
+height: 193px;
+left: 4px;
+top: 13px;
+
+background: url(image.png);
+}
+.link1 p{
+    position: absolute;
+width: 292px;
+height: 78px;
+left: 26px;
+top: 227px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+}
+
+.link2 p{
+    position: absolute;
+width: 286px;
+height: 22px;
+left: 23px;
+top: 336px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.link3 p{
+    position: absolute;
+width: 236px;
+height: 26px;
+left: 48px;
+top: 419px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.link4 p{
+    position: absolute;
+width: 216px;
+height: 42px;
+left: 61px;
+top: 512px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+}
+
+
+
+.link6 p{
+    position: absolute;
+width: 211px;
+height: 32px;
+left: 66px;
+top: 711px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+}
+
+.link7 p{
+    position: absolute;
+    width: 211px;
+    height: 62px;
+    left: 66px;
+    top: 811px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+    color: #000000;
+}
+
+
+.link8 p{
+    position: absolute;
+width: 227px;
+height: 36px;
+left: 50px;
+top: 923px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+}
+
+.secnavbar{
+    position: absolute;
+    width: 346px;
+    height: 1030px;
+    left: -4px;
+    top: 0px;
+    
+    background: #304664;
+}
+
+.secnavbar3{
+width: 84,7%;
+height: 100%;
+padding-left: 15em;
+display: flex;
+justify-content: center;
+background: #E1DADA;
+padding-top: 20px;
+gap: 30px;
+}
+
+.footer{
+width: 228px;
+height: 218px;
+left: 419px;
+top: 169px;
+
+background: #125874;
+border-radius: 15px;
+
+display: flex;
+    justify-content: space-evenly;
+    text-align: right;
+}
+
+/* Rectangle 34 */
+
+.fundo{
+    position: absolute;
+    width: 1180px;
+    height: 885px;
+    left: 342px;
+    top: 151px;
+    background: #D9D9D9;
+}
+
+.bolinha{
+    /* Ellipse 3 */
+
+
+box-sizing: border-box;
+border-radius: 50%;
+position: absolute;
+width: 122px;
+height: 108px;
+left: 443px;
+top: 204px;
+
+background: #D9D9D9;
+border: 1px solid #125874;
+}
+
+.info{
+    /* Rectangle 38 */
+box-sizing: border-box;
+background: #D9D9D9;
+border: 1px solid #125874;
+
+/* Ruana Ribeiro */
+position: absolute;
+width: 260px;
+height: 35px;
+left: 372px;
+top: 371px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;}
+
+
+.serie{
+    /* Rectangle 36 */
+    box-sizing: border-box;
+    background: #D9D9D9;
+    border: 1px solid #125874;
+
+/* 2° Médio */
+position: absolute;
+width: 260px;
+height: 35px;
+left: 372px;
+top: 411px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+color: #000000;
+}
+
+.turma{
+    /* Rectangle 37 */
+box-sizing: border-box;
+background: #D9D9D9;
+border: 1px solid #125874;
+
+/* Turma A */
+position: absolute;
+width: 260px;
+height: 35px;
+left: 372px;
+top: 450px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+}
+
+
+.boletim{
+/* Rectangle 39 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 401px;
+height: 68px;
+left: 767px;
+top: 228px;
+
+background: #D9D9D9;
+border: 1px solid #304664;
+
+/* Boletim de Notas */
+
+
+position: absolute;
+width: 446px;
+height: 44px;
+left: 745px;
+top: 236px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+
+}
+
+tr {
+    border: 1px;
+}
+
+.tabela {
+    border: 1px solid black;
+    margin-top: 10%;
+    margin-left: 40%;
+    font-size: 40pt;
+}
+
+
+.frequencia{
+    /* Rectangle 41 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 897px;
+height: 169px;
+left: 411px;
+top: 660px;
+
+background: #D9D9D9;
+border: 1px solid #304664;}
+
+
+.fec1{
+/* Frequencia */
+
+
+position: absolute;
+width: 672px;
+height: 24px;
+left: 537px;
+top: 660px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+
+
+/* Rectangle 66 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 896px;
+height: 36px;
+left: 412px;
+top: 660px;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+}
+
+
+.fec2{
+/* Rectangle 67 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 656px;
+height: 65px;
+left: 652px;
+top: 698px;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+
+/* comentário do mentor: */
+
+
+position: absolute;
+width: 608px;
+height: 59px;
+left: 664px;
+top: 712px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+}
+
+.fec3{
+/* Rectangle 68 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 236px;
+height: 135px;
+left: 414px;
+top: 694px;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+
+/* 73% de frequência */
+
+
+position: absolute;
+width: 216px;
+height: 98px;
+left: 424px;
+top: 722px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+}
+
+.fec4{
+/* Rectangle 69 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 658px;
+height: 65px;
+left: 650px;
+top: 764px;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+
+/* aluna otima */
+
+
+position: absolute;
+width: 628px;
+height: 36px;
+left: 666px;
+top: 784px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+}

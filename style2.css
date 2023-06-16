@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    height: 100vh;
+    background-color: #E1DADA;
+  }
+
+header{
+  /* Rectangle 27 */
+
+
+position: absolute;
+width: 1440px;
+height: 101px;
+left: 6.05px;
+top: 1px;
+
+background: #304664;
+transform: rotate(0.34deg);
+}
+  
+  .Email {
+    margin-top: 36.1pc;
+    margin-left: 25pc;
+    position: absolute;
+    padding: 20px 20px 20px 20px;
+  }
+  .Email input{
+    height: 73px;
+    width: 560px;
+    border-radius: 10px;
+  }
+
+  .Pass {
+    margin-top: 43.7pc;
+    margin-left: 25pc;
+    position: absolute;
+    padding: 20px 20px 20px 20px;
+  }
+  .Pass input{
+    height: 74.8px;
+    width: 560px;
+    border-radius: 10px;
+  }
+
+  .Entar {
+    margin-top: 53.3pc;
+    position: absolute;
+    margin-left: 38.7pc;
+  }
+  .Entar button{
+    width: 198px;
+    height: 50px;
+    border-radius: 10px;
+  }
+  .Entar button:hover{
+    transform: scale(1.1);
+    transition: linear;
+  }
+
+ 
